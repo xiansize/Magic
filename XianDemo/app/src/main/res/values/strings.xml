@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">XianDemo</string>
+
+    <!--各个功能的名称-->
+    <string name="database">数据库</string>
+    <string name="netword">网络访问</string>
+    <string name="drawable">自绘控件</string>
+    <string name="chat">即时通讯</string>
+    <string name="pay_funnction">支付功能</string>
+
+</resources>
